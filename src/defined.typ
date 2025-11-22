@@ -1,5 +1,3 @@
-#import "@preview/valkyrie:0.2.1" as z
-
 #import "utils.typ":*
 
 #let scope = state("defined-scope", sys.inputs)

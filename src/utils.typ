@@ -1,4 +1,4 @@
-#import "@preview/valkyrie:0.2.1" as z
+#import "@preview/valkyrie:0.2.2" as z
 
 /// Raise an error.
 /// - message (string): The error message.
